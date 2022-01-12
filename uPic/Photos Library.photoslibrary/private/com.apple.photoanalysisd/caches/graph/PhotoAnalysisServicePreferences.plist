@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BackgroundHighlightCollection</key>
+	<date>2021-11-01T20:51:17Z</date>
+	<key>BackgroundHighlightEnrichment</key>
+	<date>2021-11-01T20:51:17Z</date>
+	<key>BackgroundJobAssetRevGeocode</key>
+	<date>2021-11-01T20:51:18Z</date>
+	<key>BackgroundJobSearch</key>
+	<date>2021-11-01T20:51:18Z</date>
+	<key>BackgroundPeopleSuggestion</key>
+	<date>2021-11-01T11:11:44Z</date>
+	<key>BackgroundUserBehaviorProcessor</key>
+	<date>2021-11-01T11:11:45Z</date>
+	<key>PGGraphDataModelEnrichmentContextBackgroundEnrichment</key>
+	<date>2021-11-01T20:51:18Z</date>
+	<key>PGGraphDataModelEnrichmentContextWeeklyEnrichment</key>
+	<date>2021-10-28T03:31:32Z</date>
+	<key>PHAAssetRevGeocodeEnrichmentTask</key>
+	<date>2022-01-12T00:59:13Z</date>
+	<key>PHACachingCPAnalyticsPropertiesTask</key>
+	<date>2022-01-11T07:59:35Z</date>
+	<key>PHAGraphConsistencyTask</key>
+	<date>2022-01-12T00:59:13Z</date>
+	<key>PHAGraphRebuildTask</key>
+	<date>2022-01-11T07:59:27Z</date>
+	<key>PHAHighlightCollectionEnrichmentTask</key>
+	<date>2022-01-11T23:13:51Z</date>
+	<key>PHAHighlightEnrichmentTask</key>
+	<date>2022-01-11T23:13:49Z</date>
+	<key>PHAMediaSampleReportingTask</key>
+	<date>2022-01-11T07:59:35Z</date>
+	<key>PHAMemoriesEnrichmentTask</key>
+	<date>2022-01-11T11:00:07Z</date>
+	<key>PHAMemoryElectionTask</key>
+	<date>2022-01-11T11:00:04Z</date>
+	<key>PHAPeopleSuggestionEnrichmentTask</key>
+	<date>2022-01-11T07:59:27Z</date>
+	<key>PHAPortraitDonationEnrichmentTask</key>
+	<date>2022-01-11T07:59:34Z</date>
+	<key>PHASearchEnrichmentTask</key>
+	<date>2022-01-11T23:13:54Z</date>
+	<key>PHASuggestionGenerationTask</key>
+	<date>2022-01-11T11:00:06Z</date>
+	<key>PHASyndicationTask</key>
+	<date>2022-01-11T23:13:52Z</date>
+	<key>PHAUserBehaviorEnrichmentTask</key>
+	<date>2022-01-05T05:43:25Z</date>
+	<key>PHAWeeklyHighlightEnrichmentTask</key>
+	<date>2022-01-02T10:19:46Z</date>
+	<key>PhotoAnalysisGraphLastBackgroundGraphConsistencyUpdateJobDateKey</key>
+	<date>2021-11-01T20:51:18Z</date>
+	<key>PhotoAnalysisGraphLastBackgroundGraphRebuildJobDate</key>
+	<date>2021-11-01T11:11:44Z</date>
+	<key>PhotoAnalysisGraphLastBackgroundMemoryGenerationJobDate</key>
+	<date>2021-11-01T11:11:45Z</date>
+	<key>PhotoAnalysisPresentationLastCacheCPAnalyticsPropertiesJobDate</key>
+	<date>2021-11-01T11:11:50Z</date>
+	<key>PhotoAnalysisPresentationLastMediaSampleReportingJobDate</key>
+	<date>2021-11-01T11:11:50Z</date>
+	<key>SiriPortraitDonation</key>
+	<date>2021-11-01T11:11:45Z</date>
+</dict>
+</plist>
